@@ -4,3 +4,4 @@ read name
 echo "How do you do , $name?"
 read remark
 echo "I am $remark too!"
+# Basic printing stuff
